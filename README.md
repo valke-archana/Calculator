@@ -13,4 +13,9 @@ A simple and responsive calculator built with HTML, CSS, and JavaScript. It perf
 - CSS3
 - JavaScript
 
+# Live Demo
+You can view and use the Calculator App online through the link below:
+
+🔗 Live Project: https://valke-archana.github.io/Calculator/
+
   
